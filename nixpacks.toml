@@ -1,2 +1,5 @@
+[phases.setup]
+nixPkgs = ["python312"]
+
 [phases.build]
 cmds = ["playwright install chromium"]
