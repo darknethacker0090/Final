@@ -1,5 +1,4 @@
 aiogram==3.7.0
 aiosqlite
-requests
 aiohttp
-playwright
+playwright==1.44.0
